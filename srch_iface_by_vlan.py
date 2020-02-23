@@ -18,12 +18,3 @@ while True:
 		break
 	print(mylines[index])
 	index += 1
-
-
-
-
-
-# find = номер строки
-# while True:
-# 	print строка +1
-# 	break if find = "!"
